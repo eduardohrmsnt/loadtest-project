@@ -1,0 +1,9 @@
+loadtest
+*.exe
+*.test
+*.out
+.git
+.gitignore
+README.md
+Makefile
+
