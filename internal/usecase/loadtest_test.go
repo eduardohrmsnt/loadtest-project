@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/loadtest/internal/domain"
+	"github.com/eduardohermesneto/loadtest-go/internal/domain"
 )
 
 type mockHTTPClient struct {
